@@ -68,7 +68,11 @@ Telegram：https://t.me/LXDAO/3333
 
 ## 阅读资料
 
-十日谈的阅读资料是开放的，存放在文件夹 Resources 中，欢迎大家把加密思潮相关的阅读资料放在 TG 群组中，我会实时更新至资料文件夹，供大家取阅，思考。
+十日谈的阅读资料是开放的，存放在文件夹 Resources 中，
+
+https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97a6fda47d06a8541e8b4817a02cbf395d/Resources
+
+欢迎大家把加密思潮相关的阅读资料放在 TG 群组中，我会实时更新至资料文件夹，供大家取阅，思考。
 
 ## 共学激励
 
