@@ -6,7 +6,7 @@
 
 "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks."
 
-这是区块链世界的开始，也是密码朋克精神在社会中结下的果实，在之后的近20年里，我们见证了无数代币的浮沉，叙事的浮沉，不同的叙事分离了不同的生态，不同的生态分离了意识形态，沉淀了走向不同方向的建设者，在如今的极右浪潮中，我们甚至能看到年轻的 web3 创始人为上链政府权力的游戏而自豪（https://x.com/rushimanche/status/1888991485498183796
+这是区块链世界的开始，也是密码朋克精神在社会中结下的果实，在之后的近20年里，我们见证了无数代币的浮沉，叙事的浮沉，不同的叙事分离了不同的生态，不同的生态分离了意识形态，沉淀了走向不同方向的建设者，在如今的极右浪潮中，我们甚至能看到年轻的 web3 创始人为上链政府权力的游戏而自豪（https://x.com/rushimanche/status/1888991485498183796)
 
 整个行业的意识形态在变的相当割裂，随着 Solana 的崛起和 Ethereum 生态数据的增速放缓，不少现有建设者的内心正在摇摆，ETH 本身也在求变，我们正走到一个重要的十字路口：
 
@@ -56,7 +56,7 @@ Telegram：https://t.me/LXDAO/3333
 
 ## 发起组织
 
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
+[LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
 
 ## 请假规则
 
