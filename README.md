@@ -117,7 +117,9 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [DasNarrenschiff](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DasNarrenschiff.md) | | | | | | | | | |   |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Coooder-Crypto.md) | | | | | | | | | |   |
+| [easyshellworld](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/easyshellworld.md) | | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
