@@ -121,7 +121,9 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [Ghw2066](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Ghw2066.md) | | | | | | | | | |   |
 | [luffythink](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/luffythink.md) | | | | | | | | | |   |
 | [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) | | | | | | | | | |   |
+| [wodeche](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/wodeche.md) | | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
