@@ -80,7 +80,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 2. 拍案寓言故事：一共 60 LXPU 的奖池，激励 1~3 个优秀的寓言故事。
 3. ***认知越狱激励***：一共 60 LXPU 的奖池，激励 1~3 个最反常识的颠覆性笔记。
 
-（以上三个奖池均为可选，当大家的笔记更多聚焦于学习和思考导致产出较少时将只发放认知越狱激励）
+（以上三个奖池均为可选，特殊情况 Bounty 可以追加，但当大家的笔记更多聚焦于学习和思考导致产出较少时将只发放认知越狱激励）
 
 
 ## 报名和打卡规则
@@ -122,6 +122,8 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [luffythink](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/luffythink.md) | | | | | | | | | |   |
 | [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) | | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
+
 
 
 
