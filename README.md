@@ -125,7 +125,9 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [xueyuanhuang](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/xueyuanhuang.md) | | | | | | | | | |   |
 | [DarkingLee](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DarkingLee.md) | | | | | | | | | |   |
 | [YiShengYouNi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/YiShengYouNi.md) | | | | | | | | | |   |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/pillowtalk-Qy.md) | | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
