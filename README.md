@@ -128,7 +128,9 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/pillowtalk-Qy.md) | | | | | | | | | |   |
 | [Yuxing11](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Yuxing11.md) | | | | | | | | | |   |
 | [onthebigtree](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/onthebigtree.md) | | | | | | | | | |   |
+| [StarryDeserts](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/StarryDeserts.md) | | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
