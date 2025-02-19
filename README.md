@@ -133,7 +133,9 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [JacksonStack](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/JacksonStack.md) | | | | | | | | | |   |
 | [CraigCi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CraigCi.md) | | | | | | | | | |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CHENFANGC.md) | | | | | | | | | |   |
+| [JL_Lelouch](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/JL_Lelouch.md) | | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
