@@ -135,9 +135,10 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [CHENFANGC](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CHENFANGC.md) |   | | | | | | | | |   |
 | [JL_Lelouch](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/JL_Lelouch.md) |   | | | | | | | | |   |
 | [narnona](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/narnona.md) |   | | | | | | | | |   |
-| [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) |   | | | | | | | | |   |
+| [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) | ✅ | | | | | | | | |   |
 | [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) | ✅ |   | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
