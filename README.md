@@ -115,7 +115,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 <!-- START_COMMIT_TABLE -->
 | Name | 2.20 | 2.21 | 2.22 | 2.23 | 2.24 | 2.25 | 2.26 | 2.27 | 2.28 | 3.01 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [DasNarrenschiff](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DasNarrenschiff.md) |   | | | | | | | | |   |
+| [DasNarrenschiff](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DasNarrenschiff.md) | ✅ | | | | | | | | |   |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Coooder-Crypto.md) |   | | | | | | | | |   |
 | [easyshellworld](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/easyshellworld.md) |   | | | | | | | | |   |
 | [Ghw2066](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Ghw2066.md) |   | | | | | | | | |   |
@@ -139,6 +139,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) | ✅ |   | | | | | | | |   |
 | [hub3r3](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/hub3r3.md) |   | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
