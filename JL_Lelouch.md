@@ -2,52 +2,6 @@
 timezone: Asia/Shanghai
 ---
 
-> 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
-
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
@@ -61,10 +15,13 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2025.07.11
+### 2025.02.20
+Vitalik Buterin：我的技术乐观主义
 
-笔记内容
+文中提到人们很容易忽视技术在基础设施上的改善，比如外卖，网约车，在线地图这些东西的出现，它们逐渐成为生活中熟悉的一部分，以至于很难再估计它们的好处和影响。事实上，科技在这方面确实帮助人类跨上了新的台阶，重塑了人类社会生活，进而对文化。也确实存在环境污染和与之而来的种种问题，但技术在持续的进步，在政府的有意思控制下，这些问题是可以被解决的。所以最终大家还是都走了先发展后治理的老路。
 
-### 2025.07.12
+### 2025.02.21
+### 2025.02.22
+### 2025.02.23
 
 <!-- Content_END -->
