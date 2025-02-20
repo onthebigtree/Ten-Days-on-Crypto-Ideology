@@ -129,7 +129,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [Yuxing11](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Yuxing11.md) |   | | | | | | | | |   |
 | [onthebigtree](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/onthebigtree.md) |   | | | | | | | | |   |
 | [StarryDeserts](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/StarryDeserts.md) |   | | | | | | | | |   |
-| [Asenlan](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Asenlan.md) |   | | | | | | | | |   |
+| [Asenlan](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Asenlan.md) | ✅ | | | | | | | | |   |
 | [JacksonStack](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/JacksonStack.md) |   | | | | | | | | |   |
 | [CraigCi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CraigCi.md) | ✅ | | | | | | | | |   |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CHENFANGC.md) |   | | | | | | | | |   |
@@ -138,6 +138,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) |   | | | | | | | | |   |
 | [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) | ✅ |   | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
