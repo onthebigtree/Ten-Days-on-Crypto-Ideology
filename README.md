@@ -123,7 +123,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) |   | | | | | | | | |   |
 | [wodeche](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/wodeche.md) |   | | | | | | | | |   |
 | [xueyuanhuang](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/xueyuanhuang.md) |   | | | | | | | | |   |
-| [DarkingLee](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DarkingLee.md) |   | | | | | | | | |   |
+| [DarkingLee](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DarkingLee.md) | ✅ | | | | | | | | |   |
 | [YiShengYouNi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/YiShengYouNi.md) |   | | | | | | | | |   |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/pillowtalk-Qy.md) |   | | | | | | | | |   |
 | [Yuxing11](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Yuxing11.md) |   | | | | | | | | |   |
@@ -138,6 +138,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) |   | | | | | | | | |   |
 | [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) |   | | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
