@@ -120,7 +120,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [easyshellworld](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/easyshellworld.md) | ✅ | ✅ | | | | | | | |   |
 | [Ghw2066](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Ghw2066.md) | ✅ | ✅ | | | | | | | |   |
 | [luffythink](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/luffythink.md) | ✅ | ✅ | | | | | | | |   |
-| [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) | ⭕️ |   | | | | | | | |   |
+| [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) | ✅ | ✅ | | | | | | | |   |
 | [wodeche](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/wodeche.md) | ⭕️ |   | | | | | | | |   |
 | [xueyuanhuang](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/xueyuanhuang.md) | ⭕️ |   | | | | | | | |   |
 | [DarkingLee](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DarkingLee.md) | ✅ | ✅ | | | | | | | |   |
@@ -140,6 +140,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [hub3r3](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/hub3r3.md) | ✅ | ✅ | | | | | | | |   |
 | [abelking](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/abelking.md) | ⭕️ |   | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
