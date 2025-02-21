@@ -40,6 +40,17 @@ Quote 5: ⁠The Cypherpunks are actively engaged in making the networks safer fo
 連結：https://www.youtube.com/watch?v=4DtB96PlAtQ
 Slide: https://drive.google.com/file/d/1GeYZ6UhWREC-3HLhVaL7MfPH7Xul4fQP/view
 
-### 2025.07.12
+### 2025.02.21
+
+今日讀 “如果 web3 真能管事” https://read.readwise.io/archive/read/01jmkgsvf685xpd5g901dmj9km
+- 開頭用二手車的品質，檸檬與桃子作為劣幣與良幣的比喻。
+- 劣幣驅逐良幣的死亡螺旋：在市場上有越多人願意付比檸檬實際價值更高時，桃子的利潤與市場就會被壓縮，導致越來越少人願意供應桃子，轉而供應檸檬。
+- 解決什麼：技術是次要，更大的問題是要社會共識和意識形態。
+- 期望：讓環境變的安全，以全球受監管的賭場為例，至少大家知道自己是在玩公平的比賽。
+     ＊這邊讓我想到另一篇選讀：Crypto's broken moral compass，裡面也提到cypto is worse than casino，結果附加的影片跟這篇文章是同一個哈。
+- 手段：透過zk技術，達到 1. 自我監督、2. 民主形式的社會共識 （讓我想到 X 的 community note)，以及 3. 可靠安全 （讓加密變成必需品的關鍵）
+
+Quote: 我们需要把 zachXBT 变成 ZK⁠⁠⁠⁠，我们需要使用数学和社会共识，而不是信任或集中式合规。 
+-> 很喜歡上面這個比喻。不要信任人，要信任共識，這可以套用到那些有魅力的政治領袖或是KOL身上。可以欣賞但不要盲目崇拜。
 
 <!-- Content_END -->
