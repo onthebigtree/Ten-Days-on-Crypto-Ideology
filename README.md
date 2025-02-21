@@ -138,7 +138,9 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) | ✅ |   | | | | | | | |   |
 | [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) | ✅ | ✅ | | | | | | | |   |
 | [hub3r3](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/hub3r3.md) | ✅ |   | | | | | | | |   |
+| [abelking](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/abelking.md) | ⭕️ |   | | | | | | | |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
